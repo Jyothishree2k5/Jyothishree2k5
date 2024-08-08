@@ -17,7 +17,13 @@ I'm a pre-final year Information Technology student with a passion for developin
 
 ![Jyothishree2k5's Stats](https://github-readme-stats.vercel.app/api?username=Jyothishree2k5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+
+
+![Jyothishree2k5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothishree2k5&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ### 📈 Github activity graph
 
 [![Jyothishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyothishree2k5&bg_color=030303&color=d784d1&line=eb94e5&point=c4b1b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
