@@ -11,7 +11,7 @@ I'm a pre-final year Information Technology student with a passion for developin
 
 ### 📫 Connect with me through
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](www.linkedin.com/in/jyothishree-rajkumar-055022243)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jyothishree-rajkumar-055022243)
 
 ### 📊 GitHub Stats
 
