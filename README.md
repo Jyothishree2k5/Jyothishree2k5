@@ -1,5 +1,9 @@
-## Greetings! I'm Jyothishree👋
+### Greetings! I'm Jyothishree👋  
 I'm a pre-final year Information Technology student with a passion for developing efficient and scalable applications. Specializing in the MERN stack, I'm committed to continuously enhancing my skills and exploring emerging technologies.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsrg&label=Profile%20views&color=0e75b6&style=flat" alt="gsrg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsrg" alt="gsrg" /></a> </p>
 
 ### 💻 I Code In
 
@@ -12,6 +16,9 @@ I'm a pre-final year Information Technology student with a passion for developin
 ### 📫 Connect with me through
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishree-rajkumar-055022243/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/JyothishreeR/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jyothishree2k58)
+
 
 ### 📊 GitHub Stats
 
