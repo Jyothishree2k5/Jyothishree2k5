@@ -1,6 +1,8 @@
 ### Hi there! Jyothishree Rajkumar here. 
 🎓 Final year IT undergrad @ Easwari Engineering College
+
 🛠️ Backend dev who’s also diving into the world of AI
+
 🔥 I believe that by continuously improving no matter the outcome, will make one the OG.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsrg&label=Profile%20views&color=0e75b6&style=flat" alt="gsrg" /> </p>
