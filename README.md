@@ -36,5 +36,8 @@
 
 [![Jyothishree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyothishree2k5&bg_color=030303&color=d784d1&line=eb94e5&point=c4b1b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Badges
+
+[![An image of @jyothishree2k5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyothishree2k5)](https://holopin.io/@jyothishree2k5)
 
 
