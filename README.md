@@ -13,7 +13,7 @@
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="50" height="50" src="https://img.icons8.com/color/50/c-programming.png" alt="c-programming"/><img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/><img width="50" height="50" src="https://img.icons8.com/color/50/react-native.png" alt="react-native"/><img width="50" height="50" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/express-js.png" alt="express-js"/>
 
-### 🗄️ Databases I Work With
+### 🗄️ Databases i Work With
 
 <img width="50" height="50" src="https://img.icons8.com/color/50/mongo-db.png" alt="mongo-db"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>
 
