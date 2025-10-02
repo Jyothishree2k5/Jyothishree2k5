@@ -1,5 +1,7 @@
-### Greetings! I'm Jyothishree👋  
-I'm a pre-final year Information Technology student with a passion for developing efficient and scalable applications. Specializing in the MERN stack, I'm committed to continuously enhancing my skills and exploring emerging technologies.
+### Hi there! Jyothishree Rajkumar here. 
+🎓 Final year IT undergrad @ Easwari Engineering College
+🛠️ Backend dev who’s also diving into the world of AI
+🔥 I believe that by continuously improving no matter the outcome, will make one the OG.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsrg&label=Profile%20views&color=0e75b6&style=flat" alt="gsrg" /> </p>
 
