@@ -1,10 +1,4 @@
-### Hi there! Jyothishree Rajkumar here. 
-🎓 Final year IT undergrad @ Easwari Engineering College
-
-🛠️ Backend dev who’s also diving into the world of AI
-
-🔥 I believe that by continuously improving no matter what the outcome, will make one the OG.
-
+### Hi there! Jyothishree here. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsrg&label=Profile%20views&color=0e75b6&style=flat" alt="gsrg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsrg" alt="gsrg" /></a> </p>
